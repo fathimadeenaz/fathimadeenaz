@@ -1,6 +1,14 @@
-### Hi there 👋
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/63476604/163379411-2ab1bdd4-00bb-499e-9e92-db58b58f23c1.png" alt="My Profile" width="100%">
+</div>
 
 <!--
+
+### Hi there 👋
+
+
+
 **fathimadeenaz/fathimadeenaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
